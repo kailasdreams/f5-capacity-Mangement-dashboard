@@ -1,0 +1,53 @@
+[
+  {
+    "device_name": "F5-LB-01",
+    "location": "Data Center 1",
+    "timestamp": "2025-10-05T20:24:56.127347",
+    "status": "mock",
+    "concurrent_connections": 2570,
+    "cpu_usage": 40.18,
+    "memory_usage": 60.86,
+    "throughput_in": 443.4,
+    "throughput_out": 688.55,
+    "latency": 41.24,
+    "hardware_health": {
+      "temperature": 63,
+      "fan_status": "OK",
+      "power_supply": "OK"
+    }
+  },
+  {
+    "device_name": "F5-LB-02",
+    "location": "Data Center 2",
+    "timestamp": "2025-10-05T20:25:42.166388",
+    "status": "mock",
+    "concurrent_connections": 2429,
+    "cpu_usage": 48.46,
+    "memory_usage": 75.42,
+    "throughput_in": 174.24,
+    "throughput_out": 558.54,
+    "latency": 19.01,
+    "hardware_health": {
+      "temperature": 44,
+      "fan_status": "OK",
+      "power_supply": "OK"
+    }
+  },
+  {
+    "device_name": "F5-LB-03",
+    "location": "Cloud Region",
+    "timestamp": "2025-10-05T20:26:28.214103",
+    "status": "mock",
+    "concurrent_connections": 2612,
+    "cpu_usage": 23.56,
+    "memory_usage": 46.55,
+    "throughput_in": 643.92,
+    "throughput_out": 721.64,
+    "latency": 30.33,
+    "hardware_health": {
+      "temperature": 59,
+      "fan_status": "OK",
+      "power_supply": "OK"
+    }
+  }
+]

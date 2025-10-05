@@ -1,0 +1,4 @@
+name,host,username,password,location
+F5-LB-01,10.1.1.11,admin,kailas@123,Data Center 1
+F5-LB-02,10.1.1.12,admin,kailas@123,Data Center 2
+F5-LB-03,10.1.1.13,admin,kailas@123,Cloud Region
